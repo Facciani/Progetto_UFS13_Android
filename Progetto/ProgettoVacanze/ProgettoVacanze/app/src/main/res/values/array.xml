@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="facolta_array">
+        <item>matematica</item>
+        <item>fisica</item>
+        <item>chimica</item>
+        <item>informatica</item>
+    </string-array>
+</resources>

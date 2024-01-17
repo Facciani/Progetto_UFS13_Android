@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131060999734",
+    "project_id": "progettovacanze-35438",
+    "storage_bucket": "progettovacanze-35438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131060999734:android:822a098c5c117bc6449a97",
+        "android_client_info": {
+          "package_name": "it.rizzoli.progettovacanze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqbxAvTlUfBimNbJwYKpafpNWCBWszRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
